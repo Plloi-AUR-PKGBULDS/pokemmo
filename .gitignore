@@ -1,0 +1,10 @@
+#built/source package files.
+*.pkg.tar.xz
+*.src.tar.gz
+
+#upstream downloads
+*.zip
+
+#Package build dirs
+src/
+pkg/
